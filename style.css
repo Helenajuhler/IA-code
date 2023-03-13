@@ -1,0 +1,35 @@
+html
+
+.banner {
+  width: 100%;
+  height: 100vh;
+  background-color: #aaaaaa;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(https://cdn.shopify.com/s/files/1/0556/1876/4985/products/1_3d9be144-3289-42e8-a611-5c12d6911a21_1024x1024@2x.png?v=1670524739);
+  background-size: cover;
+  background-position: center;
+}
+
+
+nav { 
+  color: white;
+  font-size:15px;
+  width:100%;
+  padding-top: 30px;
+  padding-left: 100px;
+}
+
+  
+h1 {
+  color:white;
+  font-size:40xp;
+}
+
+h2 {
+  color:white;
+  font-size:20px;
+}
+
+
+.content1 {
+text-align: center;
+}
